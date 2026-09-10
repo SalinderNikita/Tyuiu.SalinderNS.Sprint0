@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SalinderNS.Sprint0", "Tyuiu.SalinderNS.Sprint0\Tyuiu.SalinderNS.Sprint0.csproj", "{E8D4A54B-10EC-40D1-9EC3-78998059BB2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tyuiu.SalinderNS.Sprint0.Task0.V0", "Tyuiu.SalinderNS.Sprint0.Task0.V0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D4A54B-10EC-40D1-9EC3-78998059BB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D4A54B-10EC-40D1-9EC3-78998059BB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D4A54B-10EC-40D1-9EC3-78998059BB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D4A54B-10EC-40D1-9EC3-78998059BB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A890EC20-FB90-447F-89EA-090A154E1410}
+	EndGlobalSection
+EndGlobal
